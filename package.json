@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://i11m20n.github.io/uniswap",
+  "homepage": "https://i11m20n.github.io/uniswap-interface",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
